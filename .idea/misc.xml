@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/ms-prova/pom.xml" />
         <option value="$PROJECT_DIR$/ms-usuari/pom.xml" />
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/transport/pom.xml" />
       </list>
     </option>
   </component>

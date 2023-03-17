@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="transport" />
         <module name="ms-usuari" />
         <module name="eureka" />
         <module name="gateway" />
@@ -18,6 +19,7 @@
       <module name="gateway" target="17" />
       <module name="ms-prova" target="17" />
       <module name="ms-usuari" target="17" />
+      <module name="transport" target="17" />
       <module name="usuaris" target="17" />
     </bytecodeTargetLevel>
   </component>
@@ -27,6 +29,7 @@
       <module name="gateway" options="-parameters" />
       <module name="ms-prova" options="-parameters" />
       <module name="ms-usuari" options="-parameters" />
+      <module name="transport" options="-parameters" />
       <module name="usuaris" options="-parameters" />
     </option>
   </component>
